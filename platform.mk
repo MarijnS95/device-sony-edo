@@ -234,10 +234,10 @@ PRODUCT_PACKAGES += \
     libcirrusspkrprot
 
 # GFX
+# TODO: copybit module doesn't exist
 PRODUCT_PACKAGES += \
     copybit.sm8250 \
     gralloc.sm8250 \
-    hwcomposer.sm8250 \
     memtrack.sm8250
 
 # GPS
